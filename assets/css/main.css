@@ -3143,12 +3143,12 @@
   background: #6ebb8b;
 }
 
-.skillbar-bar.C-Sharp {
-  width: 50%;
+.skillbar-bar.visualstudio {
+  width:70%;
   background: #b387c3;
 }
 .skillbar-bar.Subversion {
-  width: 85%;
+  width: 60%;
   background: #7793d2;
 }
 .skillbar-bar.Windows-Administration {
@@ -3156,7 +3156,7 @@
   background: #d2c077;
 }
 .skillbar-bar.Dreamweaver {
-  width: 50%;
+  width: 60%;
   background: gray;
 }
 .skillbar-bar.Loadrunner {
@@ -3164,15 +3164,27 @@
   background: orange;
 }
 .skillbar-bar.Cisco-CSS-Configuration {
-  width: 50%;
+  width: 60%;
   background: silver;
 }
 .skillbar-bar.Unix {
   width: 25%;
-  background: aqua;
+  background: gold;
 	
 }
 .skillbar-bar.HTML-and-CSS {
+  width: 80%;
+  background: blue;
+}
+  .skillbar-bar.Webtrends {
+  width: 70%;
+  background: orange;
+  }
+   .skillbar-bar.Sharepointdesigner {
   width: 50%;
+  background: purple;
+  } .skillbar-bar.Oracle {
+  width: 30%;
   background: aqua;
+  }
 
