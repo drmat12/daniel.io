@@ -3183,8 +3183,9 @@
    .skillbar-bar.Sharepointdesigner {
   width: 50%;
   background: purple;
-  } .skillbar-bar.Oracle {
-  width: 70%;
+ }
+.skillbar-bar.Oracle {
+  width: 40%;
   background: aqua;
   }
 
