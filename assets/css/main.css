@@ -3135,7 +3135,7 @@
   background: #2c3e50;
 }
 .skillbar-bar.TSQL {
-  width: 70%;
+  width: 80%;
   background: #c95c7b;
 }
 .skillbar-bar.SSIS {
@@ -3156,7 +3156,7 @@
   background: #d2c077;
 }
 .skillbar-bar.Dreamweaver {
-  width: 80%;
+  width: 60%;
   background: gray;
 }
 .skillbar-bar.Loadrunner {
@@ -3183,9 +3183,15 @@
    .skillbar-bar.Sharepointdesigner {
   width: 50%;
   background: purple;
- }
-.skillbar-bar.Oracle {
-  width: 40%;
+  } .skillbar-bar.Oracle {
+  width: 30%;
   background: aqua;
   }
-
+  
+ 
+  
+  
+  
+  
+  
+  
